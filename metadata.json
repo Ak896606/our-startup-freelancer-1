@@ -1,0 +1,6 @@
+{
+  "name": "OSF HackOne 2K26",
+  "description": "India's biggest online student hackathon landing page hero section with dark futuristic cyberpunk design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
